@@ -20,4 +20,4 @@ This repository contains the code for a web application designed to facilitate t
 
 Contributions to the project are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
-## by Yassir Bennani - med Amine elYakhloufi - Omar Bader - Marouane Banyny
+## by Yassir Bennani - Med Amine elYakhloufi - Omar Bader - Marouane Banyny
