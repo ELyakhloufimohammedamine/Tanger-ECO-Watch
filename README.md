@@ -1,4 +1,4 @@
- Pollution Reporting and Solution Display System
+## TANGERECOWATCH
 
 This repository contains the code for a web application designed to facilitate the reporting of pollution incidents and the display of corresponding solutions. The system aims to provide users with an intuitive interface for reporting pollution incidents and accessing relevant solutions based on the type of pollution reported.
 
@@ -19,3 +19,5 @@ This repository contains the code for a web application designed to facilitate t
 ## Contributions
 
 Contributions to the project are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+
+## by Yassir Bennani - med Amine elYakhloufi - Omar Bader - Marouane Banyny
